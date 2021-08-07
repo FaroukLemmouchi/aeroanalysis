@@ -1,0 +1,28 @@
+DEMO:
+  date: 20191222
+  pixel: 
+  root_path: data
+  simulation: demo
+  var: Cloud_fraction
+  vlim:
+    aerosol_optical_depth[550nm]:
+    - 0
+    - 0.5
+    cloud_fraction:
+    - 0
+    - 0.3
+    dof:
+    -
+    -
+    rms:
+    -
+    - 
+    surface_height:
+    - -0.2
+    - 0.6
+    totcol:
+    - 
+    - 
+    viirs_cloud_mask:
+    - 
+    - 
